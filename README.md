@@ -1,0 +1,2 @@
+# djangobin
+Django project overiq
