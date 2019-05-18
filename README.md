@@ -1,2 +1,2 @@
-# scrapy-with-postgress-database
-scrapy with postgress database
+# djangobin
+Django project overiq
